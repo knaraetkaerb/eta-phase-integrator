@@ -1,0 +1,22 @@
+{
+  "name": "eta-phase-integrator",
+  "version": "1.0.0",
+  "description": "Integrates phases in the eta dimension, providing seamless transitions and state management in computational models.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knaraetkaerb/eta-phase-integrator"
+  },
+  "author": "knaraetkaerb",
+  "license": "MIT",
+  "dependencies": {
+    "blocksage": "1.0.0",
+    "zolotaya-chasha-zolotaya": "1.0.0",
+    "theta-wind-controller": "1.0.0",
+    "iota-forest-guardian": "1.0.0",
+    "cors": "1.0.0"
+  }
+}
